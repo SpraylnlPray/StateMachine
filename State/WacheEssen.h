@@ -1,6 +1,5 @@
 #pragma once
 #include "Wache.h"
-#include "WacheStatus.h"
 #include "WachePatrouillieren.h"
 
 class WacheEssen :
